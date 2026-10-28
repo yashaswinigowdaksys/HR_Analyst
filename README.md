@@ -1,6 +1,6 @@
 # HR_Analyst
 Automated HR Analytics Dashboard built with Looker Studio. Tracks key workforce metrics including recruitment pipelines, attrition trends, and DEI demographics.
-# HR Analytics Dashboard (Looker Studio)
+# HR Analytics Dashboard 
 
 An automated HR business intelligence solution built using **Looker Studio**. This project transforms raw workforce metrics into interactive, actionable dashboards to help HR leaders optimize hiring, improve employee retention, and track organizational health.
 
